@@ -6,4 +6,6 @@ This protocol positions AI (like ChatGPT) as a connector of human thoughts—not
 <div class="calendly-inline-widget" 
      data-url="https://calendly.com/mansour-jocker/15min" 
      style="min-width:320px;height:630px;"></div>
-
+<a href="https://calendly.com/mansour-jocker/15min">
+  <img src="https://img.shields.io/badge/Schedule-Call-00a2ff?logo=calendly">
+</a>
